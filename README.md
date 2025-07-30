@@ -72,8 +72,8 @@ You can test the `digi_clk` module by applying a clock, reset, and enable signal
 ## 🛠️ Tools Used
 
 - Verilog HDL
-- Simulation: ModelSim / Vivado / EDA Playground
-- Optional Synthesis: Xilinx, Intel FPGA
+- Simulation: Vivado
+- Optional Synthesis: Xilinx
 
 ---
 
